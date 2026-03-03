@@ -105,6 +105,7 @@ klar
 
 minimal
 
+*Hinweis: WHITE ist eines von 12 System-Mutationen von System Prime (Ursprung) und können kombiniert werden.
 ohne Meta‑Erklärungen
 
 im Stil von System White
